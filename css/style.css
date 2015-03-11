@@ -1,0 +1,46 @@
+body {
+    background: #fff;
+}
+
+.jumbotron {
+    min-height: 750px;
+}
+
+h1.color {
+    opacity : .9;
+    color: #fff;
+    font-family: "Impact";
+    font-size: 104px;
+    text-shadow:1px 1px 12px #000;
+}
+
+h2.color {
+    color: #0064a2;
+     -webkit-stroke-width: 5.3px;
+   -webkit-stroke-color: #FFFFFF;
+   -webkit-fill-color: #FFFFFF;
+   text-shadow: 1px 0px 20px #fff;
+   -webkit-transition: width 0.3s; /*Safari & Chrome*/
+   transition: width 0.3s;
+   -moz-transition: width 0.3s; /* Firefox 4 */
+   -o-transition: width 0.3s; /* Opera */
+    font-size: 38px;
+}
+
+.gradient {
+    background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(top, #ffffff 79%, #247cbf 99%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(79%,#ffffff), color-stop(99%,#247cbf)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #ffffff 79%,#247cbf 99%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #ffffff 79%,#247cbf 99%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #ffffff 79%,#247cbf 99%); /* IE10+ */
+background: linear-gradient(to bottom, #ffffff 79%,#247cbf 99%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#247cbf',GradientType=0 ); /* IE6-9 */
+min-height: 500px;
+}
+
+p {
+    font-size: 24px;
+    font-weight: 800;
+    color: #000;
+}
