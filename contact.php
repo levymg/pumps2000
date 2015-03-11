@@ -495,20 +495,33 @@ $displayform = true;
             <div class="contactbox">
             
             	<ul id="contactoptions">
-                	<li class="active"><a href="#nsa">Pumps 2000 America</a></li>
-                	<!--<li><a href="#asia">Asia</a></li>
-                    <li><a href="#aus">Australia</a></li>
-                    <li><a href="#eur">Europe</a></li>-->
+                  <li class="active america"><a>Pumps 2000 America</a></li>
+                  <li class="intl"><a>Pumps 2000 International</a></li>
                 </ul>
-                
-                <div id="nsa" class="addressinfo">
+
+                <div id="america" class="addressinfo">
+                <p class="contact-disclaimer">Pumps 2000 America covering North & South America</p>
+
                 1721 Main Street<br />
                 Pittsburgh, PA 15215<br />
-                USA<br /><br />
+                USA<br />
                 Tel: 412.963.9200, 1.800.245.6211<br />
                 Fax: 412.963.9214<br />
-                <a href="mailto:info@megator.com">info@pumps2000.com</a>
+                <a href="mailto:info@pumps2000.com">info@pumps2000.com</a>
                 </div>
+                
+                <div id="nsa" class="addressinfo" style="display: none;">
+                <p class="contact-disclaimer">Pumps 2000 International covering all countries except North & South America</p>
+
+                6-12 Burleigh Street<br />
+                Toronto 2283<br />
+                N.S.W., Australia<br />
+                Phone: +61 2 49599400 <br />
+                Fax: +61 2 49504927<br />
+                <a href="mailto:info@pumps2000.com.au">info@pumps2000.com.au</a>
+                </div>
+
+                
                 
                 <!--<div id="asia" class="addressinfo">
                 <strong>Megator Limited</strong><br />

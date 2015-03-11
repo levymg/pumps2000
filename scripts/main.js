@@ -24,7 +24,7 @@ $(document).ready(function() {
 		autoHover: true
 	});
 
-
+	/*
 	// get the action filter option item on page load
 	var $filterType = $('#filterOptions li.active a').attr('class');
 	
@@ -63,6 +63,21 @@ $(document).ready(function() {
 			easing: 'easeInOutQuad'
 		});
    }
+   */
+   $('.intl').click(function(){
+   		$('#america').hide();
+   		$('#nsa').show();
+
+   		$('.intl a').css('background-color', '#0979bf');
+   		$('.america a').css('background-color', '#84c4e0');
+   });
+   $('.america').click(function(){
+   		$('#nsa').hide();
+   		$('#america').show();
+
+   		$('.intl a').css('background-color', '#84c4e0');
+   		$('.america a').css('background-color', '#0979bf');
+   });
 	
 	
 
