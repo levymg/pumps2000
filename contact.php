@@ -507,7 +507,9 @@ $displayform = true;
                 USA<br />
                 Tel: 412.963.9200, 1.800.245.6211<br />
                 Fax: 412.963.9214<br />
-                <a href="mailto:info@pumps2000.com">info@pumps2000.com</a>
+                <a href="mailto:info@pumps2000.com">info@pumps2000.com</a><br /><br />
+
+                <a href="http://www.pumps2000.com.php53-13.dfw1-1.websitetestlink.com/index.php" target="_blank">Visit Pumps 2000 International</a> 
                 </div>
                 
                 <div id="nsa" class="addressinfo" style="display: none;">
@@ -518,9 +520,7 @@ $displayform = true;
                 N.S.W., Australia<br />
                 Phone: +61 2 49599400 <br />
                 Fax: +61 2 49504927<br />
-                <a href="mailto:info@pumps2000.com.au">info@pumps2000.com.au</a><br /><br />
-
-                <a href="http://www.pumps2000.com.php53-13.dfw1-1.websitetestlink.com/index.php">Visit Pumps 2000 International</a> 
+                <a href="mailto:info@pumps2000.com.au">info@pumps2000.com.au</a>
                 </div>
 
                 
