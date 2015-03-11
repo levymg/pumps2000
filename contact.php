@@ -513,7 +513,7 @@ $displayform = true;
                 </div>
                 
                 <div id="nsa" class="addressinfo" style="display: none;">
-                <p class="contact-disclaimer">Pumps 2000 International covering all countries except those in North & South America</p>
+                <p class="contact-disclaimer">Pumps 2000 International covers all countries except those in North & South America</p>
 
                 6-12 Burleigh Street<br />
                 Toronto 2283<br />
